@@ -1,10 +1,37 @@
-# Enterprise-IT-Home-Lab
-Enterprise IT Home Lab featuring Windows Server 2022, Active Directory, DNS, Group Policy, PowerShell, Microsoft 365, Microsoft Entra ID, and GLPI Help Desk.
+# Enterprise IT Home Lab
+
+A hands-on enterprise simulation environment built to practice Windows Server administration, Active Directory, Microsoft 365, Entra ID, and Help Desk operations.
 # Enterprise IT Home Lab
 
 ## Project Overview
 
 ## Technologies Used
+
+- Windows Server 2022
+- Active Directory
+- DNS
+- Microsoft 365
+- Microsoft Entra ID
+- GLPI
+- PowerShell
+- GitHub
+
+## Completed Projects
+
+✅ Domain Controller Deployment
+✅ Active Directory Configuration
+✅ DNS Troubleshooting
+✅ User Management
+✅ File Permissions
+✅ Microsoft 365 Tenant Setup
+✅ Entra ID Configuration
+✅ GLPI Ticketing System
+
+
+
+
+
+
 
 ## Lab Architecture
 
@@ -33,6 +60,10 @@ Enterprise IT Home Lab featuring Windows Server 2022, Active Directory, DNS, Gro
 ## Troubleshooting Scenarios
 
 ## Network Diagram
+
+## Network Architecture
+
+[Network Diagram Image]
 
 ## Screenshots
 
