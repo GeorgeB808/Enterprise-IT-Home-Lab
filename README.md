@@ -97,8 +97,6 @@ Enterprise-IT-Home-Lab
 
 This repository includes screenshots demonstrating:
 
-# 📸 Screenshots
-
 ## Active Directory Users and Computers
 
 ![Active Directory](Screenshots/Active-Directory-Users.png)
