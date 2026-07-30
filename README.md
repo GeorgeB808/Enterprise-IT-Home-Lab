@@ -1,4 +1,4 @@
-# 🖥️ Enterprise IT Home Lab
+# 🖥️ Enterprise IT Infrastructure Lab
 
 ## Overview
 
