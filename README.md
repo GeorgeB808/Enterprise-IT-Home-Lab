@@ -97,13 +97,61 @@ Enterprise-IT-Home-Lab
 
 This repository includes screenshots demonstrating:
 
-* Active Directory Users and Computers
-* DNS Manager
-* File Share Configuration
-* NTFS Permissions
-* Microsoft 365 Admin Center
-* Microsoft Entra Admin Center
-* GLPI Dashboard
+# 📸 Screenshots
+
+## Active Directory Users and Computers
+
+![Active Directory](Screenshots/Active-Directory-Users.png)
+
+Created Organizational Units, domain users, and managed Active Directory objects.
+
+---
+
+## DNS Manager
+
+![DNS Manager](Screenshots/DNS-Manager-company-local.png)
+
+Configured the **company.local** DNS zone and verified Active Directory-integrated DNS records.
+
+---
+
+## Shared Folder Configuration
+
+![File Share](Screenshots/Sales-Share-Settings.png)
+
+Configured SMB sharing for the Sales department.
+
+---
+
+## NTFS Permissions
+
+![NTFS Permissions](Screenshots/Sales-NTFS-Permissions.png)
+
+Configured folder security using NTFS permissions.
+
+---
+
+## Microsoft 365 Administration
+
+![Microsoft 365](Screenshots/Microsoft-365-Admin.png)
+
+Managed users, licensing, and Microsoft 365 administration.
+
+---
+
+## Microsoft Entra ID
+
+![Entra ID](Screenshots/Entra-ID-Admin-Center.png)
+
+Configured users, security settings, and identity management.
+
+---
+
+## GLPI Help Desk
+
+![GLPI](Screenshots/GLPI-Dashboard.png)
+
+Implemented a help desk environment for ticket management and IT support.
 
 ---
 
